@@ -1,0 +1,22 @@
+{
+  "name": "oneclickpizza",
+  "version": "1.0.0",
+  "main": "bin/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.7",
+    "dominos": "^3.3.1",
+    "express": "^4.18.1",
+    "yargs": "^17.5.1"
+  },
+  "bin": {
+    "ordermepizza": "bin/index.js"
+  },
+  "devDependencies": {},
+  "description": ""
+}
